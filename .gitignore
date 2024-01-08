@@ -1,3 +1,5 @@
+# ----------------------------------------------------------------------------------- R related ------------------------------------------------------------------------------------------
+
 # History files
 .Rhistory
 .Rapp.history
@@ -50,3 +52,52 @@ rsconnect/
 
 # Html files
 *.html
+
+
+#------------------------------------------------------------------------------------Python Related -----------------------------------------------------------------------------------------------
+
+# Database files
+*.db
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+venv*/
+.env
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Jupyter Notebook and IPython files
+.ipynb_checkpoints/
+
+# Environment-specific files
+.env
+
+# Dependency management files
+pip-lock.txt
+requirements.txt
+
+# Compiled files
+*.o
+*.out
+*.dll
+*.so
+*.pyd
+*.exe
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Miscellaneous
+__pycache__/
+.DS_Store
+Thumbs.db

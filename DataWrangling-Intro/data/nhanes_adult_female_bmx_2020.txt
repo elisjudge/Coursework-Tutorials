@@ -1,0 +1,18 @@
+# Body measurements of females >= 18 years old [cm], no missing data.
+#
+# Weight (kg)
+# Standing Height (cm)
+# Upper Arm Length (cm)
+# Upper Leg Length (cm)
+# Arm Circumference (cm)
+# Hip Circumference (cm)
+# Waist Circumference (cm)
+#
+# The US Centers for Disease Control and Prevention
+# National Health and Nutrition Examination Survey
+# Based on 2017-March 2020 Data on Body Measures (P_BMX) and
+# Demographic Variables and Sample Weights (P_DEMO)
+# Published: May 2021
+# Description: https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_BMX.htm
+# and https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_DEMO.htm
+# License: public domain as per https://www.cdc.gov/other/agencymaterials.html
